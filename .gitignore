@@ -1,0 +1,22 @@
+# .gitignore
+#
+# Created: 2020.04.23
+# Author: Michael Spencer
+# License: MIT
+
+
+.vscode/
+build/
+
+helloworld
+*.o
+*.class
+*.jar
+*.pyc
+*.db
+
+*~
+*.swp
+*.swo
+
+.DS_Store
